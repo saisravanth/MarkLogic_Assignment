@@ -1,0 +1,33 @@
+UseCase-01
+<Scenario-1>
+Testcase Title: List of Titles should be displayed in Ascending order.
+
+Preconditions: Navigate to the page List.HTML
+
+Test Steps:						Expected Results:
+1. Click on radio button titled Ascending order.	1. Radio button should be selected.
+2. Click on Submit button.				2. List of document titles should be displayed in ascending order.
+
+
+
+UseCase-01
+<Scenario-2>
+Testcase Title: List of Titles should be displayed in Descending order.
+
+Preconditions: Navigate to the page List.HTML
+
+Test Steps:						Expected Results:
+1. Click on radio button titled Descending order.	1. Radio button should be selected.
+2. Click on Submit button.				2. List of document titles should be displayed in descending order.
+
+
+
+UseCase-01
+<Scenario-3>
+Testcase Title: User should be able to perform keyword search on XML files present in MarkLogic DB and Keywords should be highlighted in the search results. 
+
+Preconditions: Navigate to the page Search.HTML
+
+Test Steps:						Expected Results:
+1. Enter the text to be searched for in search box.	1. User should be able to enter text in search box.
+2. Click on Search button.				2. Search results should be displayed along with keywords highlighted in the text. 
